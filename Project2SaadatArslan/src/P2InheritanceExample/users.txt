@@ -1,0 +1,6 @@
+List of all users in chat named: First 
+|User_0|Name1|+3800000000|
+|User_1|Name_2|+3800000001|
+|User_2|Name2|+3800000002|
+|User_3|not set|+3800000003|
+|User_4|Jack|+3800000004|
